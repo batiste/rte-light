@@ -1,5 +1,7 @@
 # A light weight RTE jQuery Plugin
 
+<img src="/screenshot.png" width="400">
+
 Import of an RTE project from 2006
 
 You are searching a unbloated Rich Text Editor for JQuery ? You are at the right place!
